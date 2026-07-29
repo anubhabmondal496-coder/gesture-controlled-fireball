@@ -19,4 +19,4 @@ Computer Vision: OpenCV, MediaPipe
 
 Graphics & Rendering: Pygame (or PyOpenGL depending on your rendering choice)
 
-Math Processing: NumPy
+Math Processing: NumPy,Pandas
